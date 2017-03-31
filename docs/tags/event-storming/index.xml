@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Event Storming on Methods and Practices</title>
-    <link>http://rhlabs.com/tags/event-storming/index.xml</link>
+    <link>https://github.com/mtakane/methods-test/tags/event-storming/index.xml</link>
     <description>Recent content in Event Storming on Methods and Practices</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2015 Copyright Text</copyright>
-    <atom:link href="http://rhlabs.com/tags/event-storming/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://github.com/mtakane/methods-test/tags/event-storming/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Event Storming</title>
-      <link>http://rhlabs.com/methods/EventStorming/</link>
+      <link>https://github.com/mtakane/methods-test/methods/EventStorming/</link>
       <pubDate>Fri, 06 Apr 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://rhlabs.com/methods/EventStorming/</guid>
+      <guid>https://github.com/mtakane/methods-test/methods/EventStorming/</guid>
       <description>&lt;p&gt;I&amp;rsquo;ve got a lovely bunch of coconuts&lt;/p&gt;
 
 &lt;p&gt;blahbiddy blah&lt;/p&gt;

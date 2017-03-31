@@ -2,79 +2,79 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://rhlabs.com/2017/03/30/good-to-great/</loc>
+    <loc>https://github.com/mtakane/methods-test/2017/03/30/good-to-great/</loc>
     <lastmod>2017-03-30T15:54:44-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://rhlabs.com/methods/EventStorming/</loc>
+    <loc>https://github.com/mtakane/methods-test/methods/EventStorming/</loc>
     <lastmod>2012-04-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://rhlabs.com/methods/methodA/</loc>
+    <loc>https://github.com/mtakane/methods-test/methods/methodA/</loc>
     <lastmod>2012-04-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://rhlabs.com/methods/UserStoryMapping/</loc>
+    <loc>https://github.com/mtakane/methods-test/methods/UserStoryMapping/</loc>
     <lastmod>2012-04-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://rhlabs.com/categories/</loc>
+    <loc>https://github.com/mtakane/methods-test/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://rhlabs.com/tags/event-storming/</loc>
-    <lastmod>2012-04-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://rhlabs.com/tags/labs/</loc>
+    <loc>https://github.com/mtakane/methods-test/tags/event-storming/</loc>
     <lastmod>2012-04-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://rhlabs.com/tags/method/</loc>
+    <loc>https://github.com/mtakane/methods-test/tags/labs/</loc>
     <lastmod>2012-04-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://rhlabs.com/categories/methods/</loc>
+    <loc>https://github.com/mtakane/methods-test/tags/method/</loc>
     <lastmod>2012-04-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://rhlabs.com/methods/</loc>
+    <loc>https://github.com/mtakane/methods-test/categories/methods/</loc>
     <lastmod>2012-04-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://rhlabs.com/</loc>
-    <lastmod>2017-03-30T15:54:44-04:00</lastmod>
+    <loc>https://github.com/mtakane/methods-test/methods/</loc>
+    <lastmod>2012-04-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://rhlabs.com/post/</loc>
+    <loc>https://github.com/mtakane/methods-test/</loc>
     <lastmod>2017-03-30T15:54:44-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://rhlabs.com/tags/</loc>
+    <loc>https://github.com/mtakane/methods-test/post/</loc>
+    <lastmod>2017-03-30T15:54:44-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://rhlabs.com/tags/user-story-mapping/</loc>
+    <loc>https://github.com/mtakane/methods-test/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://github.com/mtakane/methods-test/tags/user-story-mapping/</loc>
     <lastmod>2012-04-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
