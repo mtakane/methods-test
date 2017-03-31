@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Methods and Practices</title>
-    <link>https://github.com/mtakane/methods-test/post/index.xml</link>
+    <link>https://mtakane.github.io/methods-test/post/index.xml</link>
     <description>Recent content in Posts on Methods and Practices</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2015 Copyright Text</copyright>
     <lastBuildDate>Thu, 30 Mar 2017 15:54:44 -0400</lastBuildDate>
-    <atom:link href="https://github.com/mtakane/methods-test/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mtakane.github.io/methods-test/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>good to great</title>
-      <link>https://github.com/mtakane/methods-test/2017/03/30/good-to-great/</link>
+      <link>https://mtakane.github.io/methods-test/2017/03/30/good-to-great/</link>
       <pubDate>Thu, 30 Mar 2017 15:54:44 -0400</pubDate>
       
-      <guid>https://github.com/mtakane/methods-test/2017/03/30/good-to-great/</guid>
+      <guid>https://mtakane.github.io/methods-test/2017/03/30/good-to-great/</guid>
       <description>&lt;p&gt;I read &lt;strong&gt;Good to Great in January 2016&lt;/strong&gt;. An awesome read sharing detailed analysis on how good companies became great.&lt;/p&gt;
 </description>
     </item>

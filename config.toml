@@ -1,6 +1,6 @@
 # Site settings
 theme = "material-design"
-baseurl = "https://github.com/mtakane/methods-test"
+baseurl = "https://mtakane.github.io/methods-test/"
 languageCode = "en-us"
 title = "Methods and Practices"
 MetaDataFormat = "toml"

@@ -2,79 +2,79 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://github.com/mtakane/methods-test/2017/03/30/good-to-great/</loc>
+    <loc>https://mtakane.github.io/methods-test/2017/03/30/good-to-great/</loc>
     <lastmod>2017-03-30T15:54:44-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://github.com/mtakane/methods-test/methods/EventStorming/</loc>
+    <loc>https://mtakane.github.io/methods-test/methods/EventStorming/</loc>
     <lastmod>2012-04-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://github.com/mtakane/methods-test/methods/methodA/</loc>
+    <loc>https://mtakane.github.io/methods-test/methods/methodA/</loc>
     <lastmod>2012-04-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://github.com/mtakane/methods-test/methods/UserStoryMapping/</loc>
+    <loc>https://mtakane.github.io/methods-test/methods/UserStoryMapping/</loc>
     <lastmod>2012-04-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://github.com/mtakane/methods-test/categories/</loc>
+    <loc>https://mtakane.github.io/methods-test/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://github.com/mtakane/methods-test/tags/event-storming/</loc>
-    <lastmod>2012-04-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://github.com/mtakane/methods-test/tags/labs/</loc>
+    <loc>https://mtakane.github.io/methods-test/tags/event-storming/</loc>
     <lastmod>2012-04-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://github.com/mtakane/methods-test/tags/method/</loc>
+    <loc>https://mtakane.github.io/methods-test/tags/labs/</loc>
     <lastmod>2012-04-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://github.com/mtakane/methods-test/categories/methods/</loc>
+    <loc>https://mtakane.github.io/methods-test/tags/method/</loc>
     <lastmod>2012-04-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://github.com/mtakane/methods-test/methods/</loc>
+    <loc>https://mtakane.github.io/methods-test/categories/methods/</loc>
     <lastmod>2012-04-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://github.com/mtakane/methods-test/</loc>
-    <lastmod>2017-03-30T15:54:44-04:00</lastmod>
+    <loc>https://mtakane.github.io/methods-test/methods/</loc>
+    <lastmod>2012-04-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://github.com/mtakane/methods-test/post/</loc>
+    <loc>https://mtakane.github.io/methods-test/</loc>
     <lastmod>2017-03-30T15:54:44-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://github.com/mtakane/methods-test/tags/</loc>
+    <loc>https://mtakane.github.io/methods-test/post/</loc>
+    <lastmod>2017-03-30T15:54:44-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://github.com/mtakane/methods-test/tags/user-story-mapping/</loc>
+    <loc>https://mtakane.github.io/methods-test/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mtakane.github.io/methods-test/tags/user-story-mapping/</loc>
     <lastmod>2012-04-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>

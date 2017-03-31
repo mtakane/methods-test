@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Methods on Methods and Practices</title>
-    <link>https://github.com/mtakane/methods-test/methods/index.xml</link>
+    <link>https://mtakane.github.io/methods-test/methods/index.xml</link>
     <description>Recent content in Methods on Methods and Practices</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2015 Copyright Text</copyright>
     <lastBuildDate>Fri, 06 Apr 2012 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://github.com/mtakane/methods-test/methods/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mtakane.github.io/methods-test/methods/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Event Storming</title>
-      <link>https://github.com/mtakane/methods-test/methods/EventStorming/</link>
+      <link>https://mtakane.github.io/methods-test/methods/EventStorming/</link>
       <pubDate>Fri, 06 Apr 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/mtakane/methods-test/methods/EventStorming/</guid>
+      <guid>https://mtakane.github.io/methods-test/methods/EventStorming/</guid>
       <description>&lt;p&gt;I&amp;rsquo;ve got a lovely bunch of coconuts&lt;/p&gt;
 
 &lt;p&gt;blahbiddy blah&lt;/p&gt;
@@ -24,10 +24,10 @@
     
     <item>
       <title>Maybe some Method Detail Page</title>
-      <link>https://github.com/mtakane/methods-test/methods/methodA/</link>
+      <link>https://mtakane.github.io/methods-test/methods/methodA/</link>
       <pubDate>Fri, 06 Apr 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/mtakane/methods-test/methods/methodA/</guid>
+      <guid>https://mtakane.github.io/methods-test/methods/methodA/</guid>
       <description>
 
 &lt;p&gt;I&amp;rsquo;ve got a lovely bunch of coconuts&lt;/p&gt;
@@ -40,10 +40,10 @@
     
     <item>
       <title>User Story Mapping</title>
-      <link>https://github.com/mtakane/methods-test/methods/UserStoryMapping/</link>
+      <link>https://mtakane.github.io/methods-test/methods/UserStoryMapping/</link>
       <pubDate>Fri, 06 Apr 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/mtakane/methods-test/methods/UserStoryMapping/</guid>
+      <guid>https://mtakane.github.io/methods-test/methods/UserStoryMapping/</guid>
       <description>
 
 &lt;p&gt;I&amp;rsquo;ve got a lovely bunch of coconuts&lt;/p&gt;
