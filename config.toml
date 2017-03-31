@@ -1,0 +1,20 @@
+# Site settings
+theme = "material-design"
+baseurl = "http://rhlabs.com"
+languageCode = "en-us"
+title = "Methods and Practices"
+MetaDataFormat = "toml"
+
+paginate = 9 # To specify a multiple of 3
+copyright = "© 2015 Copyright Text"
+publishDir = "docs"
+
+[params]
+  description = "Look to share methods and practices used at Labs" # optional
+  twitter = "Your Twitter Name" # optional
+  github = "mtakane" # optional
+  linkedin = "matttakane" # optional
+  headerCover = "images/headerCover.jpg" # optional
+
+[permalinks]
+  post = "/:year/:month/:day/:title/" # optional

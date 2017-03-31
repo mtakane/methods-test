@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>User Story Mapping on Methods and Practices</title>
+    <link>http://rhlabs.com/tags/user-story-mapping/index.xml</link>
+    <description>Recent content in User Story Mapping on Methods and Practices</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2015 Copyright Text</copyright>
+    <atom:link href="http://rhlabs.com/tags/user-story-mapping/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>User Story Mapping</title>
+      <link>http://rhlabs.com/methods/UserStoryMapping/</link>
+      <pubDate>Fri, 06 Apr 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://rhlabs.com/methods/UserStoryMapping/</guid>
+      <description>
+
+&lt;p&gt;I&amp;rsquo;ve got a lovely bunch of coconuts&lt;/p&gt;
+
+&lt;h1 id=&#34;here-is-a-title&#34;&gt;Here is a title&lt;/h1&gt;
+
+&lt;h1 id=&#34;yay&#34;&gt;yay&lt;/h1&gt;
+
+&lt;h1 id=&#34;blahbiddy-blah&#34;&gt;blahbiddy blah&lt;/h1&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Methods and Practices</title>
+    <link>http://rhlabs.com/index.xml</link>
+    <description>Recent content on Methods and Practices</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2015 Copyright Text</copyright>
+    <lastBuildDate>Thu, 30 Mar 2017 15:54:44 -0400</lastBuildDate>
+    <atom:link href="http://rhlabs.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>good to great</title>
+      <link>http://rhlabs.com/2017/03/30/good-to-great/</link>
+      <pubDate>Thu, 30 Mar 2017 15:54:44 -0400</pubDate>
+      
+      <guid>http://rhlabs.com/2017/03/30/good-to-great/</guid>
+      <description>&lt;p&gt;I read &lt;strong&gt;Good to Great in January 2016&lt;/strong&gt;. An awesome read sharing detailed analysis on how good companies became great.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Event Storming</title>
+      <link>http://rhlabs.com/methods/EventStorming/</link>
+      <pubDate>Fri, 06 Apr 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://rhlabs.com/methods/EventStorming/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve got a lovely bunch of coconuts&lt;/p&gt;
+
+&lt;p&gt;blahbiddy blah&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Maybe some Method Detail Page</title>
+      <link>http://rhlabs.com/methods/methodA/</link>
+      <pubDate>Fri, 06 Apr 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://rhlabs.com/methods/methodA/</guid>
+      <description>
+
+&lt;p&gt;I&amp;rsquo;ve got a lovely bunch of coconuts&lt;/p&gt;
+
+&lt;h1 id=&#34;here-is-a-title&#34;&gt;Here is a title&lt;/h1&gt;
+
+&lt;p&gt;blahbiddy blah&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>User Story Mapping</title>
+      <link>http://rhlabs.com/methods/UserStoryMapping/</link>
+      <pubDate>Fri, 06 Apr 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://rhlabs.com/methods/UserStoryMapping/</guid>
+      <description>
+
+&lt;p&gt;I&amp;rsquo;ve got a lovely bunch of coconuts&lt;/p&gt;
+
+&lt;h1 id=&#34;here-is-a-title&#34;&gt;Here is a title&lt;/h1&gt;
+
+&lt;h1 id=&#34;yay&#34;&gt;yay&lt;/h1&gt;
+
+&lt;h1 id=&#34;blahbiddy-blah&#34;&gt;blahbiddy blah&lt;/h1&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
