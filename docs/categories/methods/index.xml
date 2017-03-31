@@ -1,57 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Methods on Methods and Practices</title>
+    <title>Methods on Labs Methods and Practices</title>
     <link>https://mtakane.github.io/methods-test/categories/methods/index.xml</link>
-    <description>Recent content in Methods on Methods and Practices</description>
+    <description>Recent content in Methods on Labs Methods and Practices</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© 2015 Copyright Text</copyright>
     <atom:link href="https://mtakane.github.io/methods-test/categories/methods/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Event Storming</title>
       <link>https://mtakane.github.io/methods-test/methods/EventStorming/</link>
-      <pubDate>Fri, 06 Apr 2012 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 31 Mar 2017 13:37:45 -0400</pubDate>
       
       <guid>https://mtakane.github.io/methods-test/methods/EventStorming/</guid>
       <description>&lt;p&gt;I&amp;rsquo;ve got a lovely bunch of coconuts&lt;/p&gt;
 
 &lt;p&gt;blahbiddy blah&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Maybe some Method Detail Page</title>
-      <link>https://mtakane.github.io/methods-test/methods/methodA/</link>
-      <pubDate>Fri, 06 Apr 2012 00:00:00 +0000</pubDate>
-      
-      <guid>https://mtakane.github.io/methods-test/methods/methodA/</guid>
-      <description>
-
-&lt;p&gt;I&amp;rsquo;ve got a lovely bunch of coconuts&lt;/p&gt;
-
-&lt;h1 id=&#34;here-is-a-title&#34;&gt;Here is a title&lt;/h1&gt;
-
-&lt;p&gt;blahbiddy blah&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>User Story Mapping</title>
-      <link>https://mtakane.github.io/methods-test/methods/UserStoryMapping/</link>
-      <pubDate>Fri, 06 Apr 2012 00:00:00 +0000</pubDate>
-      
-      <guid>https://mtakane.github.io/methods-test/methods/UserStoryMapping/</guid>
-      <description>
-
-&lt;p&gt;I&amp;rsquo;ve got a lovely bunch of coconuts&lt;/p&gt;
-
-&lt;h1 id=&#34;here-is-a-title&#34;&gt;Here is a title&lt;/h1&gt;
-
-&lt;h1 id=&#34;yay&#34;&gt;yay&lt;/h1&gt;
-
-&lt;h1 id=&#34;blahbiddy-blah&#34;&gt;blahbiddy blah&lt;/h1&gt;
 </description>
     </item>
     

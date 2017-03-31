@@ -1,41 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Methods and Practices</title>
+    <title>Labs Methods and Practices</title>
     <link>https://mtakane.github.io/methods-test/index.xml</link>
-    <description>Recent content on Methods and Practices</description>
+    <description>Recent content on Labs Methods and Practices</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© 2015 Copyright Text</copyright>
-    <lastBuildDate>Thu, 30 Mar 2017 15:54:44 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 31 Mar 2017 13:38:08 -0400</lastBuildDate>
     <atom:link href="https://mtakane.github.io/methods-test/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>good to great</title>
-      <link>https://mtakane.github.io/methods-test/2017/03/30/good-to-great/</link>
-      <pubDate>Thu, 30 Mar 2017 15:54:44 -0400</pubDate>
+      <title>Some Title</title>
+      <link>https://mtakane.github.io/methods-test/intro/second-content/</link>
+      <pubDate>Fri, 31 Mar 2017 13:38:08 -0400</pubDate>
       
-      <guid>https://mtakane.github.io/methods-test/2017/03/30/good-to-great/</guid>
-      <description>&lt;p&gt;I read &lt;strong&gt;Good to Great in January 2016&lt;/strong&gt;. An awesome read sharing detailed analysis on how good companies became great.&lt;/p&gt;
+      <guid>https://mtakane.github.io/methods-test/intro/second-content/</guid>
+      <description>&lt;p&gt;Lorem Ipsum&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Event Storming</title>
-      <link>https://mtakane.github.io/methods-test/methods/EventStorming/</link>
-      <pubDate>Fri, 06 Apr 2012 00:00:00 +0000</pubDate>
+      <title>Some Title</title>
+      <link>https://mtakane.github.io/methods-test/intro/first-content/</link>
+      <pubDate>Fri, 31 Mar 2017 13:37:58 -0400</pubDate>
       
-      <guid>https://mtakane.github.io/methods-test/methods/EventStorming/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;ve got a lovely bunch of coconuts&lt;/p&gt;
-
-&lt;p&gt;blahbiddy blah&lt;/p&gt;
+      <guid>https://mtakane.github.io/methods-test/intro/first-content/</guid>
+      <description>&lt;p&gt;Lorem Ipsum&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Maybe some Method Detail Page</title>
       <link>https://mtakane.github.io/methods-test/methods/methodA/</link>
-      <pubDate>Fri, 06 Apr 2012 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 31 Mar 2017 13:37:45 -0400</pubDate>
       
       <guid>https://mtakane.github.io/methods-test/methods/methodA/</guid>
       <description>
@@ -49,9 +46,21 @@
     </item>
     
     <item>
+      <title>Event Storming</title>
+      <link>https://mtakane.github.io/methods-test/methods/EventStorming/</link>
+      <pubDate>Fri, 31 Mar 2017 13:37:45 -0400</pubDate>
+      
+      <guid>https://mtakane.github.io/methods-test/methods/EventStorming/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve got a lovely bunch of coconuts&lt;/p&gt;
+
+&lt;p&gt;blahbiddy blah&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>User Story Mapping</title>
       <link>https://mtakane.github.io/methods-test/methods/UserStoryMapping/</link>
-      <pubDate>Fri, 06 Apr 2012 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 31 Mar 2017 13:37:45 -0400</pubDate>
       
       <guid>https://mtakane.github.io/methods-test/methods/UserStoryMapping/</guid>
       <description>
@@ -63,6 +72,64 @@
 &lt;h1 id=&#34;yay&#34;&gt;yay&lt;/h1&gt;
 
 &lt;h1 id=&#34;blahbiddy-blah&#34;&gt;blahbiddy blah&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Practices</title>
+      <link>https://mtakane.github.io/methods-test/practices/</link>
+      <pubDate>Fri, 31 Mar 2017 14:47:27 -0400</pubDate>
+      
+      <guid>https://mtakane.github.io/methods-test/practices/</guid>
+      <description>
+
+&lt;h3 id=&#34;chapter-x&#34;&gt;Chapter X&lt;/h3&gt;
+
+&lt;h1 id=&#34;some-chapter-title&#34;&gt;Some Chapter title&lt;/h1&gt;
+
+&lt;p&gt;Lorem ipsum&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Methods</title>
+      <link>https://mtakane.github.io/methods-test/methods/</link>
+      <pubDate>Fri, 31 Mar 2017 14:47:15 -0400</pubDate>
+      
+      <guid>https://mtakane.github.io/methods-test/methods/</guid>
+      <description>
+
+&lt;h3 id=&#34;chapter-x&#34;&gt;Chapter X&lt;/h3&gt;
+
+&lt;h1 id=&#34;some-chapter-title&#34;&gt;Some Chapter title&lt;/h1&gt;
+
+&lt;p&gt;Lorem ipsum&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Intro</title>
+      <link>https://mtakane.github.io/methods-test/intro/</link>
+      <pubDate>Fri, 31 Mar 2017 13:37:45 -0400</pubDate>
+      
+      <guid>https://mtakane.github.io/methods-test/intro/</guid>
+      <description>
+
+&lt;h3 id=&#34;chapter-x&#34;&gt;Chapter X&lt;/h3&gt;
+
+&lt;h1 id=&#34;some-chapter-title&#34;&gt;Some Chapter title&lt;/h1&gt;
+
+&lt;p&gt;Lorem ipsum&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Practices is Great</title>
+      <link>https://mtakane.github.io/methods-test/practices/good-to-great/</link>
+      <pubDate>Fri, 31 Mar 2017 13:37:45 -0400</pubDate>
+      
+      <guid>https://mtakane.github.io/methods-test/practices/good-to-great/</guid>
+      <description>&lt;p&gt;I read &lt;strong&gt;Good to Great in January 2016&lt;/strong&gt;. An awesome read sharing detailed analysis on how good companies became great.&lt;/p&gt;
 </description>
     </item>
     

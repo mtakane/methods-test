@@ -2,23 +2,48 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://mtakane.github.io/methods-test/2017/03/30/good-to-great/</loc>
-    <lastmod>2017-03-30T15:54:44-04:00</lastmod>
+    <loc>https://mtakane.github.io/methods-test/intro/second-content/</loc>
+    <lastmod>2017-03-31T13:38:08-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mtakane.github.io/methods-test/methods/EventStorming/</loc>
-    <lastmod>2012-04-06T00:00:00+00:00</lastmod>
+    <loc>https://mtakane.github.io/methods-test/intro/first-content/</loc>
+    <lastmod>2017-03-31T13:37:58-04:00</lastmod>
   </url>
   
   <url>
     <loc>https://mtakane.github.io/methods-test/methods/methodA/</loc>
-    <lastmod>2012-04-06T00:00:00+00:00</lastmod>
+    <lastmod>2017-03-31T13:37:45-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mtakane.github.io/methods-test/methods/EventStorming/</loc>
+    <lastmod>2017-03-31T13:37:45-04:00</lastmod>
   </url>
   
   <url>
     <loc>https://mtakane.github.io/methods-test/methods/UserStoryMapping/</loc>
-    <lastmod>2012-04-06T00:00:00+00:00</lastmod>
+    <lastmod>2017-03-31T13:37:45-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mtakane.github.io/methods-test/practices/</loc>
+    <lastmod>2017-03-31T14:47:27-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mtakane.github.io/methods-test/methods/</loc>
+    <lastmod>2017-03-31T14:47:15-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mtakane.github.io/methods-test/intro/</loc>
+    <lastmod>2017-03-31T13:37:45-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mtakane.github.io/methods-test/practices/good-to-great/</loc>
+    <lastmod>2017-03-31T13:37:45-04:00</lastmod>
   </url>
   
   <url>
@@ -28,54 +53,54 @@
   
   <url>
     <loc>https://mtakane.github.io/methods-test/tags/event-storming/</loc>
-    <lastmod>2012-04-06T00:00:00+00:00</lastmod>
+    <lastmod>2017-03-31T13:37:45-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mtakane.github.io/methods-test/intro/</loc>
+    <lastmod>2017-03-31T13:37:45-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://mtakane.github.io/methods-test/tags/labs/</loc>
-    <lastmod>2012-04-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://mtakane.github.io/methods-test/tags/method/</loc>
-    <lastmod>2012-04-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://mtakane.github.io/methods-test/categories/methods/</loc>
-    <lastmod>2012-04-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://mtakane.github.io/methods-test/methods/</loc>
-    <lastmod>2012-04-06T00:00:00+00:00</lastmod>
+    <lastmod>2017-03-31T13:37:45-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://mtakane.github.io/methods-test/</loc>
-    <lastmod>2017-03-30T15:54:44-04:00</lastmod>
+    <lastmod>2017-03-31T13:38:08-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://mtakane.github.io/methods-test/post/</loc>
-    <lastmod>2017-03-30T15:54:44-04:00</lastmod>
+    <loc>https://mtakane.github.io/methods-test/tags/method/</loc>
+    <lastmod>2017-03-31T13:37:45-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mtakane.github.io/methods-test/categories/methods/</loc>
+    <lastmod>2017-03-31T13:37:45-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mtakane.github.io/methods-test/methods/</loc>
+    <lastmod>2017-03-31T14:47:15-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mtakane.github.io/methods-test/practices/</loc>
+    <lastmod>2017-03-31T14:47:27-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://mtakane.github.io/methods-test/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://mtakane.github.io/methods-test/tags/user-story-mapping/</loc>
-    <lastmod>2012-04-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
