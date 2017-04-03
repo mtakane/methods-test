@@ -7,7 +7,6 @@ chapter = false
 next = "methods/EventStorming"
 prev = "methods"
 weight = 10
-slug = "methodA"
 
 +++
 I've got a lovely bunch of coconuts

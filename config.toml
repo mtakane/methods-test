@@ -2,6 +2,10 @@ languageCode = "en-us"
 title = "Labs Methods and Practices"
 baseURL = "https://mtakane.github.io/methods-test/"
 theme = "hugo-theme-learn"
-search = "true"
 
 publishDir = "docs"
+
+[params]
+	author = "Labs Team"
+	description = "This is a methodd and practice config description in params"
+	search = "true"

@@ -10,7 +10,6 @@ weight = 20
 description = "provide some additional details on some method we like"
 tags = [ "method", "labs", "event storming" ]
 categories = [ "methods"]
-slug = "EventStorming"
 
 +++
 I've got a lovely bunch of coconuts

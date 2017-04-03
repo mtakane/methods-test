@@ -6,7 +6,6 @@ icon = "<b>-- </b>"
 chapter = false
 prev = "methods/EventStorming"
 weight = 30
-slug = "UserStoryMapping"
 
 +++
 I've got a lovely bunch of coconuts
