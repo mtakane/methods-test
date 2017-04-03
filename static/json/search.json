@@ -18,7 +18,7 @@
         "tags": []
     },
     {
-        "uri": "/./content/methods/Event Storming",
+        "uri": "/./content/methods/Event-Storming",
         "title": "Event Storming",
         "content": "I've got a lovely bunch of coconuts\r\n\r\nblahbiddy blah",
         "tags": [
@@ -34,13 +34,13 @@
         "tags": []
     },
     {
-        "uri": "/./content/methodsmethodA",
+        "uri": "/./content/methods/methodA",
         "title": "Maybe some Method Detail Page",
         "content": "I've got a lovely bunch of coconuts\r\n\r\nHere is a title\r\n\r\nblahbiddy blah",
         "tags": []
     },
     {
-        "uri": "/./content/methodsUserStoryMapping",
+        "uri": "/./content/methods/User-Story-Mapping",
         "title": "User Story Mapping",
         "content": "I've got a lovely bunch of coconuts\r\n\r\nHere is a title\r\n yay\r\nblahbiddy blah",
         "tags": []
